@@ -1,7 +1,7 @@
 Term: 2023 - 2024 Fall
 Lecturer: Dr. Yakup Genç
 
-| Homework Points: |
+Homework Points: 
 
 | HW1 | HW2 | HW3 | HW4 |
 | --------------------- |
