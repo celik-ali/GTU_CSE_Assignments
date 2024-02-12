@@ -1,0 +1,2 @@
+module memowry_ops(output reg [31:0] content) ;
+	reg [31:0] registers [31:0];
